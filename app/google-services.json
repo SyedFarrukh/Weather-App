@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "759662102207",
+    "project_id": "my-project-1519121702423"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759662102207:android:52b6c977842c3783",
+        "android_client_info": {
+          "package_name": "com.chilindoassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759662102207-lc9fc4rp99tnkmnm5p3d0rvr9bbf6aug.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "759662102207-ma1q4jkufl61ors0uf1lfbjtp6ktfhp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chilindoassignment",
+            "certificate_hash": "4b9bacb20af3bae8d0b657cac6ea04968123a09a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Copy paste here your current_key"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
